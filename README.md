@@ -1,12 +1,19 @@
-<h1 align="center">Hi 👋, I'm faah</h1>
+<h2 align="center">Hi, I'm Gustavo</h3>
+<h5 align="center">:telescope: Currently working on some projects written in Java</h3>
+<p align="center">:mailbox: You can reach me at <a style="text-decoration:none;color: unset" href="mailto:gustavo.h.castro@protonmail.com"><b>gustavo.h.castro@protonmail.com</b></a> or <b>1faah</b></p>
 
-[![](https://visitcount.itsvg.in/api?id=1fahh&icon=2&color=0)](https://visitcount.itsvg.in)
+<h3 align="center">:clipboard: Technologies</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 
+<img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
 
-# 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/faah#99189) 
+</div>
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<h3 align="center">🛠️ Tools</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-107cf2?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+<img src="https://img.shields.io/badge/DataGrip-a15fe8?style=for-the-badge&logo=datagrip&logoColor=white" alt="IntelliJ IDEA">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
